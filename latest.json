@@ -1,1 +1,1 @@
-{"version":"1.0.4-alfa","setupUrl":"https://github.com/Maxxi83/sclab-releases/releases/download/v1.0.4-alfa/ScLab-Setup-1.0.4-alfa.exe","notes":"Release limpa para jogadores: textos originais, update via GitHub API (sem cache atrasado)."}
+{"version":"1.0.5-alfa","setupUrl":"https://github.com/Maxxi83/sclab-releases/releases/download/v1.0.5-alfa/ScLab-Setup-1.0.5-alfa.exe","notes":"Limpar cache do FiveM no Launcher (sem backup; preserva game-storage)."}
